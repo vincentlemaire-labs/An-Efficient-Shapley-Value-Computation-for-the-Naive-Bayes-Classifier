@@ -1,0 +1,21 @@
+#Khiops 7.7.2i
+
+Dictionary	Crx
+{
+	Categorical	A1		;	
+	Numerical	A2		;	
+	Numerical	A3		;	
+	Categorical	A4		;	
+	Categorical	A5		;	
+	Categorical	A6		;	
+	Categorical	A7		;	
+	Numerical	A8		;	
+	Categorical	A9		;	
+	Categorical	A10		;	
+	Numerical	A11		;	
+	Categorical	A12		;	
+	Categorical	A13		;	
+	Numerical	A14		;	
+	Numerical	A15		;	
+	Categorical	Class		;	
+};

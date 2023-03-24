@@ -1,0 +1,30 @@
+#Khiops 7.7.2i
+
+Dictionary	German
+{
+	Numerical	A1		;	
+	Numerical	A2		;	
+	Numerical	A3		;	
+	Numerical	A4		;	
+	Numerical	A5		;	
+	Numerical	A6		;	
+	Numerical	A7		;	
+	Numerical	A8		;	
+	Numerical	A9		;	
+	Numerical	A10		;	
+	Numerical	A11		;	
+	Numerical	A12		;	
+	Numerical	A13		;	
+	Numerical	A14		;	
+	Numerical	A15		;	
+	Numerical	A16		;	
+	Numerical	A17		;	
+	Numerical	A18		;	
+	Numerical	A19		;	
+	Numerical	A20		;	
+	Numerical	A21		;	
+	Numerical	A22		;	
+	Numerical	A23		;	
+	Numerical	A24		;	
+	Categorical	Class		;	
+};

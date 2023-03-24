@@ -1,0 +1,26 @@
+#Khiops 10.0.8.9i
+
+Dictionary	Telco
+{
+	Categorical	customerID		;	
+	Categorical	gender		;	
+	Categorical	SeniorCitizen		;	
+	Categorical	Partner		;	
+	Categorical	Dependents		;	
+	Numerical	tenure		;	
+	Categorical	PhoneService		;	
+	Categorical	MultipleLines		;	
+	Categorical	InternetService		;	
+	Categorical	OnlineSecurity		;	
+	Categorical	OnlineBackup		;	
+	Categorical	DeviceProtection		;	
+	Categorical	TechSupport		;	
+	Categorical	StreamingTV		;	
+	Categorical	StreamingMovies		;	
+	Categorical	Contract		;	
+	Categorical	PaperlessBilling		;	
+	Categorical	PaymentMethod		;	
+	Numerical	MonthlyCharges		;	
+	Numerical	TotalCharges		;	
+	Categorical	Churn		;	
+};

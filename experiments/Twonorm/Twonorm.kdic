@@ -1,0 +1,26 @@
+#Khiops 8.0.1
+
+Dictionary	Twonorm
+{
+	Numerical	Var1		;	
+	Numerical	Var2		;	
+	Numerical	Var3		;	
+	Numerical	Var4		;	
+	Numerical	Var5		;	
+	Numerical	Var6		;	
+	Numerical	Var7		;	
+	Numerical	Var8		;	
+	Numerical	Var9		;	
+	Numerical	Var10		;	
+	Numerical	Var11		;	
+	Numerical	Var12		;	
+	Numerical	Var13		;	
+	Numerical	Var14		;	
+	Numerical	Var15		;	
+	Numerical	Var16		;	
+	Numerical	Var17		;	
+	Numerical	Var18		;	
+	Numerical	Var19		;	
+	Numerical	Var20		;	
+	Categorical	Class		;	
+};

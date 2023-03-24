@@ -1,0 +1,15 @@
+#Khiops 7.7.2i
+
+Dictionary	Tictactoe
+{
+	Categorical	TopLeftSquare		;	
+	Categorical	TopMiddleSquare		;	
+	Categorical	TopRightSquare		;	
+	Categorical	MiddleLeftSquare		;	
+	Categorical	MiddleMiddleSquare		;	
+	Categorical	MiddleRightSquare		;	
+	Categorical	BottomLeftSquare		;	
+	Categorical	BottomMiddleSquare		;	
+	Categorical	BottomRightSquare		;	
+	Categorical	Class		;	
+};

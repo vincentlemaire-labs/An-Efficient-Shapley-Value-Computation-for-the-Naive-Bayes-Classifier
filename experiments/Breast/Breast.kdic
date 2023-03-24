@@ -1,0 +1,16 @@
+#Khiops 7.7.2i
+
+Dictionary	Breast
+{
+	Numerical	SampleCodeNumber		;	
+	Numerical	ClumpThickness		;	
+	Numerical	UniformityCellSize		;	
+	Numerical	UniformityCellShape		;	
+	Numerical	MarginalAdhesion		;	
+	Numerical	SingleEpithelialCellSize		;	
+	Numerical	BareNuclei		;	
+	Numerical	BlandChromatin		;	
+	Numerical	NormalNucleoli		;	
+	Numerical	Mitoses		;	
+	Categorical	Class		;	
+};

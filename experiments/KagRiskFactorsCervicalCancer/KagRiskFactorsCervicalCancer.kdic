@@ -1,0 +1,40 @@
+
+Dictionary	KagRiskFactorsCervicalCancer
+{
+	Numerical	Age		;	
+	Numerical	`Number of sexual partners`		;	
+	Numerical	`First sexual intercourse`		;	
+	Numerical	`Num of pregnancies`		;	
+	Numerical	Smokes		;	
+	Numerical	`Smokes (years)`		;	
+	Numerical	`Smokes (packs/year)`		;	
+	Numerical	`Hormonal Contraceptives`		;	
+	Numerical	`Hormonal Contraceptives (years)`		;	
+	Numerical	IUD		;	
+	Numerical	`IUD (years)`		;	
+	Numerical	STDs		;	
+	Numerical	`STDs (number)`		;	
+	Numerical	`STDs:condylomatosis`		;	
+	Numerical	`STDs:cervical condylomatosis`		;	
+	Numerical	`STDs:vaginal condylomatosis`		;	
+	Numerical	`STDs:vulvo-perineal condylomatosis`		;	
+	Numerical	`STDs:syphilis`		;	
+	Numerical	`STDs:pelvic inflammatory disease`		;	
+	Numerical	`STDs:genital herpes`		;	
+	Numerical	`STDs:molluscum contagiosum`		;	
+	Numerical	`STDs:AIDS`		;	
+	Numerical	`STDs:HIV`		;	
+	Numerical	`STDs:Hepatitis B`		;	
+	Numerical	`STDs:HPV`		;	
+	Numerical	`STDs: Number of diagnosis`		;	
+	Numerical	`STDs: Time since first diagnosis`		;	
+	Numerical	`STDs: Time since last diagnosis`		;	
+	Categorical	`Dx:Cancer`		;	
+	Categorical	`Dx:CIN`		;	
+	Categorical	`Dx:HPV`		;	
+	Categorical	Dx		;	
+	Categorical	Hinselmann		;	
+	Categorical	Schiller		;	
+	Categorical	Citology		;	
+	Categorical	Biopsy		;	
+};

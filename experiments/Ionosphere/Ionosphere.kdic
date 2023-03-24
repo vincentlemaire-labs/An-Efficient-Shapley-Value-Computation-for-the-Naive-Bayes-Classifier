@@ -1,0 +1,40 @@
+#Khiops 7.7.2i
+
+Dictionary	Ionosphere
+{
+	Numerical	A1		;	
+	Numerical	A2		;	
+	Numerical	A3		;	
+	Numerical	A4		;	
+	Numerical	A5		;	
+	Numerical	A6		;	
+	Numerical	A7		;	
+	Numerical	A8		;	
+	Numerical	A9		;	
+	Numerical	A10		;	
+	Numerical	A11		;	
+	Numerical	A12		;	
+	Numerical	A13		;	
+	Numerical	A14		;	
+	Numerical	A15		;	
+	Numerical	A16		;	
+	Numerical	A17		;	
+	Numerical	A18		;	
+	Numerical	A19		;	
+	Numerical	A20		;	
+	Numerical	A21		;	
+	Numerical	A22		;	
+	Numerical	A23		;	
+	Numerical	A24		;	
+	Numerical	A25		;	
+	Numerical	A26		;	
+	Numerical	A27		;	
+	Numerical	A28		;	
+	Numerical	A29		;	
+	Numerical	A30		;	
+	Numerical	A31		;	
+	Numerical	A32		;	
+	Numerical	A33		;	
+	Numerical	A34		;	
+	Categorical	Class		;	
+};
