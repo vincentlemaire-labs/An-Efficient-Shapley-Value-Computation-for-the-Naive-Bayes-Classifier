@@ -3,7 +3,7 @@
 Requirements for python 3.8.6 and Windows 10:
 Note : Code for Two Class Datasets
 1. First login to [www.khiops.com](http://www.khiops.com)
-2. Go then to the "Install" Pane of this site [...](https://www.khiops.com/installation-notes-v10#downloads) and download the windows installer (from the "Downloads" section)
+2. Go then to the "Install" Pane of this site and download the windows installer (from the "Downloads" section)
 3. Execute the Installer (only for windows) : double click on 'khiops-10.1.1-setup.exe' and follow all the steps
 4. Install the library pykhiops (provided here) using pip install:  `pip install pykhiops.10.1.1.tar.gz`
 5. Install the Python librairies if not present for you:  pandas, numpy, scipy, sklearn, shap, matplotlib
