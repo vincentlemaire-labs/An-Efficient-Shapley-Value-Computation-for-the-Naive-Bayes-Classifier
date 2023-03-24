@@ -1,6 +1,7 @@
 # Installation
 
-Requirements for python 3.8.6 and Windows 10:
+Requirements for python 3.8.6 and Windows 10
+
 Note : Code for Two Class Datasets
 1. First login to [www.khiops.com](http://www.khiops.com)
 2. Go then to the "Install" Pane of this site and download the windows installer (from the "Downloads" section)
