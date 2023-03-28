@@ -35,7 +35,7 @@ Output:
 
 ### STEP 2: Computation of our Shapley values and WoE values
 
-> 02_Compute_WoE_And_OurShapley.py
+> python 02_Compute_WoE_And_OurShapley.py
 
 This script computes the WoE values and our Shapley values.
 
@@ -52,7 +52,7 @@ These two files contains J*C columns (J=number of variables, C=number of classes
 
 ### STEP 3: Computation of Pearson coefficient of the Table 2 in the paper
 
->  03_Compute_Correlation_Coefficient_Between_OurShapley_And_WoE.py
+>  python 03_Compute_Correlation_Coefficient_Between_OurShapley_And_WoE.py
 
 This script computes Pearson correlation coefficients between our Shapley values and WoE values.
 
@@ -75,7 +75,7 @@ Output:
 
 ### STEP 3bis: Computation of Kendall coefficient of the Table 2 in the paper
 
-> 03bis_Compute_Correlation_CoefficientKendall _Between_OurShapley_And_WoE.py
+> python 03bis_Compute_Correlation_CoefficientKendall _Between_OurShapley_And_WoE.py
 
 This step is similar to step 3 but for the Kendall correlation coefficient.
 
@@ -96,7 +96,7 @@ Output:
 
 ### STEP 4: Computation of the Global Kernel Shap values
 
-> 04_ComputeKernelShap20Datasets.py
+> python 04_ComputeKernelShap20Datasets.py
 
 This code computes the global KenelShap values for each dataset with a budget of **two hours** per dataset.
 
@@ -113,7 +113,7 @@ Output:
 
 ### STEP 5: Computation of our Global Shapley values
 
-> 05_ComputeOurGlobalShapley.py
+> python 05_ComputeOurGlobalShapley.py
 
 This code computes the Global Shapley values for each dataset.
 
