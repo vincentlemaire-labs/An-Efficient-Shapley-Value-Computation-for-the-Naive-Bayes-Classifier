@@ -35,7 +35,7 @@ Output:
 
 ### STEP 2: Computation of our Shapley values and WoE values
 
-> 02_Compute_WoE_And_OurShaley.py
+> 02_Compute_WoE_And_OurShapley.py
 
 This script computes the WoE values and our Shapley values.
 
@@ -65,7 +65,7 @@ Output:
     This file contains:
         (i) The correlation values per variable (JxC lines) , 
         (ii) The mean and the variance of this vector.
-        (iii) Our global Sphaley values (average of the sum of the absolute values of all examples).
+        (iii) Our global Shapley values (average of the sum of the absolute values of all examples).
         (iv) The Global WoE values (average of the sum of the absolute values of all examples).
         Note: the variable names are not indicated but they may be find in the "Modeling.kdic" file.
     
